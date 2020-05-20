@@ -7,6 +7,6 @@ Files themselves may not be directly useable
 ## Sections
 * Verilog
 * Unity
-   * [UI](unity/docs/ui_formatting.rm)
-   * [Textures](unity/docs/texture_formatting.rm)
+   * [UI](unity/docs/ui_formatting.md)
+   * [Textures](unity/docs/texture_formatting.md)
 * Python
