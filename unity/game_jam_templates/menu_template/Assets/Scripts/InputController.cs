@@ -6,8 +6,6 @@ using UnityEngine;
 public class InputController : MonoBehaviour
 {
 
-    public MenuController MenuController;
-
     public delegate void InputHandler(string info);
     public event InputHandler OnInput;
 

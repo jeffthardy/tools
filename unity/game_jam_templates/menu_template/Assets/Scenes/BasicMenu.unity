@@ -2128,7 +2128,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 688817439}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2a0d2da925b9c740b7c686936b7c99e, type: 3}
+  m_Script: {fileID: 11500000, guid: b7d684b5f557b9e499b2dd05c7c21829, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inputController: {fileID: 2137214150}
@@ -6129,10 +6129,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 2137214149}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa8d52d3bdfab774d8c38ba2ac0ef2c4, type: 3}
+  m_Script: {fileID: 11500000, guid: 506764d7e65ef364cbaa148c4c9cc46f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MenuController: {fileID: 688817440}
 --- !u!4 &2137214151
 Transform:
   m_ObjectHideFlags: 0
